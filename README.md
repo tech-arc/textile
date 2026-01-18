@@ -62,7 +62,7 @@ This project offers a unified solution to address these challenges:
 ### Step 1: Visit the Website
 - Open the live website at
  ```bash
-   https://tech-arc.github.io/textile/
+   https://tech-arc.github.io/texbridge/
 ```
 
 ### Step 2: Explore Features
